@@ -3,7 +3,7 @@
 **A passionate IT student from India 🇮🇳, currently learning Python, Java, Git, GitHub, and Data Structures & Algorithms. I enjoy building projects, solving problems, and continuously improving my programming skills.**
 
 
-Email Me 👉 ✉️ **nafiskhan59786@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ *nafiskhan59786@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I'm currently working on:** Beginner Python projects and Java fundamentals
 
