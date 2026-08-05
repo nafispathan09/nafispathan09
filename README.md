@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Nafis Khan
+# 💫 Hello 👋, I'm Nafis Khan
 
 **A passionate IT student from India 🇮🇳, currently learning Python, Java, Git, GitHub, and Data Structures & Algorithms. I enjoy building projects, solving problems, and continuously improving my programming skills.**
 
